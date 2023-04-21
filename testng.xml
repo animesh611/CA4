@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/wwwgh/IdeaProjects/Ca4/src/test/java/org/example"><classes><class name="org.example.DropDown"><methods><include name="DropDown"/></methods></class></classes></test></suite>
